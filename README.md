@@ -2,7 +2,7 @@
 
 This project demonstrates the use of **YOLOv5** for detecting **cancer cells** in microscopy images using a custom-trained deep learning model.
 
-![YOLOv5 Cancer Detection](https://user-images.githubusercontent.com/placeholder/image.jpg) <!-- optional preview image -->
+
 
 ---
 
