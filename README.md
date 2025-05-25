@@ -15,8 +15,7 @@ I trained a YOLOv5 model to detect cancer cells using a small medical image data
 - **Application:** Cancer cell detection from microscopy images
 - **Training duration:** 20 epochs  
 - **Performance:**  
-  - `mAP@0.5`: ~36%  
-  - `mAP@0.5:0.95`: ~17.8%
+  - precision of 64.5%
 
 Despite limitations, this project is a step toward applying AI in **medical imaging and diagnostics**.
 
