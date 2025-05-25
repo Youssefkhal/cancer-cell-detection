@@ -23,6 +23,10 @@ Despite limitations, this project is a step toward applying AI in **medical imag
 ---
 
 
+https://github.com/user-attachments/assets/e1a7b25f-1d96-45e4-93f3-4d54fc7caf6e
+
+
+
 ![image](https://github.com/user-attachments/assets/1026b32d-8852-4f0b-a2e7-c19d55ffc915)
 
 
