@@ -1,6 +1,6 @@
 # Cancer Cell Detection with YOLOv5 🧬🩺
 
-This project demonstrates the use of **YOLOv5** for detecting **cancer cells** in microscopy images using a custom-trained deep learning model.
+This project demonstrates the use of **YOLOv5** for detecting **cancer cells** in breast radiology images using a custom-trained deep learning model.
 
 
 
